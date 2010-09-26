@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="vaguevt-jdpf.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective16" />
+    <filter
+       inkscape:collect="always"
+       id="filter3614">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5968124"
+         id="feGaussianBlur3616" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="269.29329"
+     inkscape:cy="424.83131"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1397"
+     inkscape:window-height="880"
+     inkscape:window-x="39"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="135.71429,457.14286"
+       id="guide3618" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="387.14286,354.28571"
+       id="guide3620" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2985"
+       sodipodi:cx="387.14285"
+       sodipodi:cy="593.79077"
+       sodipodi:rx="184.28572"
+       sodipodi:ry="104.28571"
+       d="m 571.42857,593.79077 a 184.28572,104.28571 0 1 1 -368.57144,0 184.28572,104.28571 0 1 1 368.57144,0 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#008000"
+       id="path2987"
+       sodipodi:cx="440"
+       sodipodi:cy="638.07648"
+       sodipodi:rx="182.85715"
+       sodipodi:ry="100"
+       d="m 622.85715,638.07648 a 182.85715,100 0 1 1 -365.7143,0 182.85715,100 0 1 1 365.7143,0 z"
+       transform="matrix(0.95964802,0,0,0.95357,-34.80763,-15.001404)" />
+    <text
+       xml:space="preserve"
+       style="font-size:144.00000063999999611px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros Bold;stroke-opacity:1;filter:url(#filter3614);stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+       x="280.20908"
+       y="657.52979"
+       id="text2989"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0251874,0.97543141)"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="280.20908"
+         y="657.52979">VT</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="opacity:1">
+    <text
+       xml:space="preserve"
+       style="font-size:96.90486144999999851px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.40000010000000019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:TeXGyreCursor;-inkscape-font-specification:TeXGyreCursor Bold"
+       x="199.13763"
+       y="698.78796"
+       id="text2998"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1300548,0.88491284)"><tspan
+         sodipodi:role="line"
+         id="tspan3000"
+         x="199.13763"
+         y="698.78796"
+         style="stroke-width:2.40000010000000019">VAGUE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros"
+       x="273.4993"
+       y="740.27344"
+       id="text3002"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1113609,0.89979771)"><tspan
+         sodipodi:role="line"
+         id="tspan3004"
+         x="273.4993"
+         y="740.27344">vaguevt.org</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="JDPF'sChangeNotes"
+     style="display:inline">
+    <path
+       style="opacity:0.47999992;fill:#ff0000;fill-opacity:1;stroke:none"
+       id="path3629"
+       d="m 161.69719,525.18923 c 2.78916,-1.23337 5.66829,-2.19286 8.6182,-2.95551 4.43198,-1.0872 8.97317,-1.6665 13.50475,-2.15347 4.16203,-0.52308 8.33434,-0.45866 12.51087,-0.24487 3.79254,0.34734 7.57441,0.78375 11.33731,1.37132 4.27912,0.56431 8.47044,1.59258 12.63816,2.68929 4.29793,1.0271 8.61408,1.99535 12.86432,3.20828 3.13659,0.83839 6.24108,1.78344 9.35312,2.70565 3.03883,0.90592 5.9867,2.08017 8.97394,3.13753 2.69497,0.93829 5.31194,2.06115 7.93746,3.17343 2.55564,1.02185 5.03166,2.19509 7.36069,3.6628 2.12373,1.38124 4.16357,2.88655 6.22845,4.3533 1.88059,1.24491 3.51723,2.8 5.26845,4.20787 1.33846,1.05096 2.68369,2.08601 3.96201,3.21026 -1.22164,-1.00785 0.68239,0.49652 -3.32397,2.5708 -0.0265,0.0137 -1.38388,-2.8208 -1.50856,-3.07083 -0.92438,-1.928 -1.54473,-3.98002 -1.98435,-6.06759 -0.33853,-1.745 -0.41168,-3.5223 -0.4445,-5.29452 -0.009,-0.85717 -0.009,-1.71442 -0.007,-2.57163 0.001,-0.49005 0.004,-0.81234 0.005,-0.81236 1.43063,-0.0282 2.8591,0.12478 4.28864,0.18716 0.0543,1.2894 -0.094,2.59322 0.0786,3.87413 0.2532,1.74521 0.41174,3.49588 0.72972,5.23061 0.28923,1.89957 0.66635,3.77926 1.21588,5.62112 0.52516,1.43139 1.78443,4.21366 0.49638,5.59707 -0.46914,0.50387 -1.17114,0.72412 -1.75671,1.08618 -2.02761,0.22205 -3.87187,-0.7377 -5.75673,-1.33081 -1.78304,-0.42897 -3.58662,-0.79444 -5.40087,-1.07073 -1.0825,-0.13152 -0.54823,-0.0747 -1.60268,-0.17174 -3.01739,-0.28115 -2.61978,-4.54838 0.3976,-4.26723 l 0,0 c 1.22126,0.11503 0.60315,0.048 1.85419,0.2027 2.03104,0.3129 4.05345,0.71537 6.04445,1.22089 0.56439,0.17937 3.11527,0.87732 3.42475,1.25913 -0.29302,0.28893 -0.65768,0.51991 -0.87907,0.8668 -0.11608,0.18187 -0.0224,0.86173 -0.035,0.64634 -0.0291,-0.49946 -0.25868,-1.07763 -0.41513,-1.51995 -0.15451,-0.43684 -0.32081,-0.86942 -0.48121,-1.30413 -0.58335,-1.99007 -1.01434,-4.01366 -1.32169,-6.06485 -0.3346,-1.83444 -0.51206,-3.68444 -0.77362,-5.5302 -0.13906,-1.42259 -0.0976,-2.84696 -0.10396,-4.27556 1.42734,-0.0726 2.85288,-0.22831 4.28204,-0.21783 0.0831,6.1e-4 -0.002,0.16615 -0.002,0.24922 -0.006,1.00587 -0.005,2.01182 0.004,3.01767 0.0269,1.5051 0.0776,3.01543 0.3553,4.49923 0.35515,1.73163 0.8689,3.43252 1.62613,5.03291 1.61326,3.25304 2.01104,2.23923 -1.62202,5.7921 -0.0645,0.0631 -0.14242,-0.11078 -0.21363,-0.16617 -1.23314,-1.0849 -2.53495,-2.07775 -3.82446,-3.0943 -1.67716,-1.36013 -3.25652,-2.84495 -5.05801,-4.04834 -2.00237,-1.42362 -3.98137,-2.88323 -6.03918,-4.22623 -2.12432,-1.354 -4.40629,-2.39427 -6.73983,-3.33738 -2.54541,-1.07939 -5.08117,-2.17181 -7.69525,-3.07933 -2.91723,-1.03298 -5.79626,-2.17933 -8.7624,-3.06876 -3.09805,-0.91976 -6.18963,-1.85847 -9.31243,-2.69381 -4.22015,-1.20877 -8.51054,-2.15743 -12.77744,-3.18442 -4.02632,-1.06062 -8.07487,-2.05765 -12.20973,-2.5996 -3.6158,-0.56738 -7.25034,-0.9813 -10.89394,-1.32539 -3.95125,-0.20275 -7.89673,-0.27528 -11.83463,0.22606 -4.32629,0.46276 -8.66258,1.01196 -12.89501,2.04304 -2.65984,0.67878 -5.24715,1.54775 -7.76819,2.63791 -2.71053,1.35526 -4.62716,-2.478 -1.91663,-3.83326 z" />
+    <path
+       style="opacity:0.47999992;fill:#ff0000;fill-opacity:1;stroke:none"
+       id="path3631"
+       d="m 140.34055,647.36833 c 1.78215,-2.07042 3.84166,-3.8756 5.81182,-5.76033 2.84492,-2.52394 5.71032,-5.04164 8.68462,-7.41342 3.3055,-2.55654 6.80423,-4.84171 10.26241,-7.1824 2.72816,-1.78716 5.39774,-3.64393 8.23607,-5.25486 2.94326,-1.69523 5.91964,-3.31324 8.9787,-4.79124 3.08512,-1.55052 6.18607,-3.06646 9.3058,-4.54844 2.94988,-1.55917 6.11069,-2.62706 9.20916,-3.84003 2.87609,-1.21407 5.85163,-2.15338 8.76116,-3.2795 2.75318,-1.02541 5.50791,-2.04744 8.3051,-2.94711 3.097,-0.95704 6.09214,-2.19964 9.15278,-3.25932 0.3842,-0.14402 0.7738,-0.27439 1.1526,-0.43207 1.33139,-0.5542 0.0723,-0.51932 -0.1178,0.7358 0.31633,1.35411 0.4492,0.89078 0.27586,1.41948 -1.25559,-0.47915 -2.59653,-0.62322 -3.92611,-0.72586 -1.77658,-0.0857 -3.52458,-0.43574 -5.29489,-0.60333 -1.90284,-0.33564 -3.81516,-0.58138 -5.73744,-0.77068 -2.05779,-0.23626 -1.75247,-0.13017 0.34518,-4.29437 0.0148,-0.0294 2.93057,0.39986 3.07045,0.42277 2.49298,0.4355 5.01096,0.68551 7.51769,1.02573 2.85556,0.271 5.70563,0.57069 8.55747,0.88305 2.52035,0.27465 4.99946,0.58445 4.04048,4.10127 -0.12063,0.44238 -0.6573,0.6395 -0.98595,0.95925 -2.02501,1.22258 -4.0136,2.49963 -5.91623,3.90574 -1.90361,1.31942 -3.22559,3.20423 -4.62184,5.00644 -1.21837,1.62315 -2.32278,3.32293 -3.40234,5.0396 -1.61331,2.56532 -5.24123,0.28375 -3.62791,-2.28158 l 0,0 c 1.15424,-1.83527 2.33825,-3.65081 3.64338,-5.38413 1.6399,-2.1131 3.23373,-4.28304 5.46449,-5.82914 1.89268,-1.39401 3.85094,-2.69875 5.88309,-3.88104 -0.68877,1.48326 -0.23777,2.24015 0.86092,2.97024 0.0314,0.0209 -0.0501,-0.0616 -0.0858,-0.0737 -0.60596,-0.20355 -1.03636,-0.19688 -1.71926,-0.2728 -2.88839,-0.31685 -5.77506,-0.61745 -8.66689,-0.89647 -2.54872,-0.34593 -5.10897,-0.60018 -7.64354,-1.04472 -0.86731,-0.14651 -2.8017,-0.37511 -2.80357,-0.38702 -0.73759,-4.69947 -1.27106,-4.43511 0.5103,-4.23425 1.91752,0.18892 3.8285,0.42012 5.72444,0.76943 1.74746,0.16792 3.47346,0.50514 5.22582,0.5973 1.9338,0.15607 3.87992,0.41217 5.65626,1.24457 0.36047,0.23768 0.82436,0.36612 1.0814,0.71305 2.27887,3.07575 -0.59717,4.54667 -3.05995,5.36788 -3.09107,1.06689 -6.11317,2.32758 -9.24166,3.28897 -2.71831,0.87309 -5.39399,1.86885 -8.06969,2.8638 -2.90467,1.12408 -5.87419,2.06388 -8.74608,3.27363 -3.00528,1.17582 -6.0728,2.20463 -8.93214,3.72021 -3.11139,1.47801 -6.20457,2.98869 -9.28081,4.53646 -2.97489,1.43629 -5.86791,3.0109 -8.72922,4.66047 -2.7415,1.55185 -5.3109,3.35525 -7.94728,5.07567 -3.36718,2.27891 -6.77487,4.50196 -9.99637,6.98699 -2.87813,2.28396 -5.6358,4.72893 -8.3914,7.15757 -1.9484,1.86129 -3.98064,3.64725 -5.74281,5.69284 -2.14286,2.14286 -5.17332,-0.8876 -3.03046,-3.03045 z" />
+    <path
+       style="opacity:0.47999992;fill:#ff0000;fill-opacity:1;stroke:none"
+       id="path3633"
+       d="m 299.95617,741.64094 c -0.4749,-3.00461 -0.79441,-6.02636 -1.01477,-9.05974 -0.30835,-5.08274 -0.33458,-10.17693 -0.3652,-15.26724 -0.0652,-5.65054 0.70206,-11.2234 1.77684,-16.75474 0.89632,-4.03193 2.20003,-7.97438 3.86314,-11.75317 1.30317,-2.83552 2.82992,-5.5603 4.55654,-8.158 1.56653,-2.13139 3.3833,-4.01308 5.39561,-5.72064 0.83984,-0.78693 1.89076,-1.35457 2.62278,-2.25787 0.0606,-0.0748 0.16935,-0.34568 0.12699,-0.25927 -0.52273,1.06618 -0.41398,0.46313 -0.10924,1.83687 0.0978,0.12751 0.33023,0.22604 0.29357,0.38253 -0.0288,0.1228 -0.25149,-0.0249 -0.3776,-0.0239 -0.20487,0.002 -0.40931,0.0193 -0.61378,0.0323 -1.07389,0.0681 -2.14572,0.16872 -3.21819,0.25556 -2.30509,0.26203 -4.54673,0.84472 -6.77975,1.45015 -1.7852,0.65947 -3.75326,0.99813 -5.45447,1.86848 -0.16703,0.34012 0.48503,-0.23788 0.50656,-0.46639 0.29761,-3.15787 -1.68848,-2.7375 0.38515,-2.59556 2.06585,0.0583 4.14006,0.16392 6.20249,0.002 3.24664,-0.23719 6.47109,-0.68411 9.7118,-0.98557 0.52721,-0.0416 1.05597,-0.0667 1.58161,-0.12486 2.16207,-0.23918 0.57928,-0.41396 0.31962,0.20962 -0.59437,1.42739 -0.48223,1.47052 -0.0791,2.30117 0.35289,0.74477 1.61141,0.0733 1.9326,-0.1167 0.16765,-0.0992 0.17885,-0.43036 0.37264,-0.45014 0.0636,-0.006 0.18877,0.85304 0.28895,1.44962 0.72019,3.06371 2.0908,5.9456 3.35922,8.81512 0.64341,1.93547 2.04757,3.54385 2.65841,5.4886 0.10362,0.32988 0.34192,0.69785 0.20739,1.01638 -0.37903,0.89747 -1.10283,1.60631 -1.65425,2.40946 -0.69899,-0.0991 -1.42634,-0.0765 -2.09695,-0.29717 -1.02276,-0.33648 -4.02988,-3.56279 -4.96361,-4.46235 -1.81785,-1.71405 -3.26919,-3.78146 -4.73022,-5.79913 -1.09055,-1.45748 -1.76369,-3.15387 -2.69725,-4.70154 -1.54621,-2.60632 2.13969,-4.79299 3.68589,-2.18667 l 0,0 c 0.84986,1.44986 1.50802,3.00022 2.48418,4.37687 1.30933,1.81333 2.60382,3.68142 4.23087,5.22408 0.95905,0.92397 1.92855,1.83784 2.88248,2.76706 0.2046,0.1993 0.40131,0.4066 0.60588,0.60593 0.10319,0.10054 0.44512,0.22718 0.31724,0.29355 -0.34493,0.17901 -0.77141,0.0949 -1.15712,0.14232 -0.37699,0.7308 -0.86023,3.00294 -1.08955,2.21326 -0.55262,-1.903 -2.03547,-3.45136 -2.60343,-5.35841 -1.41295,-3.19843 -2.92883,-6.41422 -3.66734,-9.84735 -0.0984,-0.60148 -0.38836,-2.13704 -0.30938,-2.7125 0.36512,-2.66056 2.51914,-3.54465 4.68442,-2.16481 0.3009,0.32908 0.79046,0.55568 0.90269,0.98723 1.00604,3.86821 -2.41543,4.00019 -5.06955,4.18871 -3.2689,0.30304 -6.52123,0.75655 -9.79638,0.99259 -2.27684,0.15595 -4.56135,0.0892 -6.84073,-0.003 -0.77236,-0.0633 -2.7742,-0.0571 -3.2343,-0.86791 -1.23421,-2.1749 -0.86177,-3.14536 0.85485,-4.22616 1.97826,-0.88441 4.08339,-1.47073 6.1473,-2.12211 2.48647,-0.67408 4.98683,-1.30947 7.55531,-1.58549 1.7854,-0.14454 4.45276,-0.6732 6.13107,0.0222 0.49463,0.20494 0.92316,0.5426 1.38474,0.81391 0.26162,0.57973 0.70603,1.10807 0.78486,1.73919 0.28712,2.29878 -2.53989,3.74573 -3.91403,5.00442 -1.71378,1.43925 -3.24531,3.0323 -4.59442,4.82286 -1.59675,2.38963 -2.99504,4.90543 -4.20307,7.51399 -1.54575,3.48113 -2.73274,7.12609 -3.57648,10.84031 -1.02623,5.25246 -1.75992,10.54232 -1.69783,15.90942 0.03,4.99578 0.0546,9.99537 0.35412,14.98387 0.20551,2.85555 0.50761,5.69833 0.94271,8.52836 0.59432,2.97161 -3.60817,3.81211 -4.20249,0.8405 z" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3635"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros"><flowRegion
+         id="flowRegion3637"><rect
+           id="rect3639"
+           width="146.42857"
+           height="99.285713"
+           x="13.571428"
+           y="485.93362"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara3641">Changed the font from Sans to TeXGyreHeros Bold which is a better &quot;clone&quot; of Helvetica. These &quot;car badges&quot; use Helvetica. Added a blur to the text itself, along with a white stroke of 3pt.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3643"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros"><flowRegion
+         id="flowRegion3645"><rect
+           id="rect3647"
+           width="130.71428"
+           height="161.42857"
+           x="25"
+           y="638.79077"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara3649">Since we're all about the Command Line, we should spell that out, and pay homage to the existing logo on the wikipage. I switched the font to TeXGyreCursor a Courier clone. Pushed it up to maximize the size too. Notice the 2.6pt black stroke to speak to the &quot;reverse video&quot; of our tty screens, and improve the contrast of the text from the field.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3651"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros"><flowRegion
+         id="flowRegion3653"><rect
+           id="rect3655"
+           width="112.85714"
+           height="87.14286"
+           x="242.85715"
+           y="739.50507"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara3657">Again, font change from Sans to a recognizable Helvetica clone: TeXGyreHeros (normal weight). </flowPara><flowPara
+         id="flowPara3659"> </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3661"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros"
+       transform="translate(22.142857,-3.5714286)"><flowRegion
+         id="flowRegion3663"><rect
+           id="rect3665"
+           width="218.5714"
+           height="57.142879"
+           x="261.42856"
+           y="420.93362" /></flowRegion><flowPara
+         id="flowPara3667"
+         style="font-size:10px">I did away with the opacity blending, as a logo like this (sticker style) is really expected to jump out at you, and that means high contrast only. Otherwise it does not pass the squint test.</flowPara></flowRoot>  </g>
+</svg>

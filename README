@@ -1,0 +1,20 @@
+This is a place to share content for the VAGUEvt.org site. 
+VAGUE is Vermont Area Group of UNIX Enthusiasts. 
+
+ABOUT
+We are a coordinated group of up-north techno-geeks dedicated to the philosophy and principles of the UNIX tradition. We are strong advocates of Free Software and Open Source Software. 
+
+LOGO
+This logo was originally created and proposed by rob mehner <rt100vt@gmail.com>, who invited people to modify it. These are my modifications to his proposed logotype using Inkscape.
+
+NOTES
+You will need to have TeXGyre fonts installed to properly render my changes. They are readily available from your distribution. If you use TeX then you might already have them! Just in case you roll your own distribution, or just to have the files themselves:
+
+http://www.gust.org.pl/projects/e-foundry/tex-gyre/
+
+Installing those fonts in your system is left as an exercise for the reader.
+
+Thanks!
+
+--jdpf (jonathan ferguson)
+20100926
